@@ -1,0 +1,12 @@
+[0;32mEnter the number of processes: [0m[0;31m
+Enter the Burst Time of Process 1: Enter the Arrival Time of Process 1: 
+Enter the Burst Time of Process 2: Enter the Arrival Time of Process 2: 
+Enter the Burst Time of Process 3: Enter the Arrival Time of Process 3: 
+Enter the Burst Time of Process 4: Enter the Arrival Time of Process 4: [0m
+Enter the time quantum: 
+Sequence of processes:
+[0;35m-> P1 -> P2 -> P3 -> P4 -> P1 -> P2 -> P3 -> P4 -> P1 -> P2 -> P3 -> P4 -> P1 -> P2 -> P3 -> P4 -> P3 -> P4 [0m
+
+Average turnaround time = 28.25
+
+Average waiting time = 19.75

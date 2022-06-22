@@ -26,7 +26,7 @@ void first_fit(int no_of_processes, int size_of_processes[], int block[], int lo
             }
             
         }
-        if (flag == 0 )
+        if (flag == 0)
         {
             printf("Memory for process %d could not be allocated\n", i+1);
         }
@@ -265,3 +265,13 @@ int main()
     }
     return 0;
 }
+
+
+
+
+
+
+
+
+
+
